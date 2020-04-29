@@ -4,7 +4,7 @@
 
 ![Modal with Tabs](img/Robots.gif)
 
-### Here is the start structure of HTML
+### Here is the start structure of HTML:
 
 ![HTML](img/HTML_Structure.png)
 
